@@ -1,1 +1,6 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+ "name": "Redmine for JumpBox Study Hall",
+ "sections": [
+    {"section":"one"}
+ ]
+}
