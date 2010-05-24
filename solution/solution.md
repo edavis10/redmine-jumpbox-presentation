@@ -3,6 +3,8 @@
 
 ## Project communication
 
+---
+
 * Software bug tracking
 * IT Helpdesk
 * Construction management

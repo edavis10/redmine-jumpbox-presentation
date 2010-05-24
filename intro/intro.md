@@ -2,15 +2,6 @@
 
 # ![Redmine](../images/Redmine-Logo-large.png)
 
-!SLIDE bullets incremental
-# What Is Redmine?
-
-* Project Management System
-* Bug Tracker
-* Wiki
-* Forums
-* and much more...
-
 !SLIDE bullets
 # Who Am I?
 
@@ -19,3 +10,16 @@
 * Redmine core developer
 * Redmine plugin creator
 * [@edavis10](http://twitter.com/edavis10)
+
+!SLIDE bullets incremental
+# What Is Redmine?
+
+## Project Management System
+
+---
+
+* Bug Tracker
+* Wiki
+* Forums
+* Source Code Browser
+* and much more...
