@@ -5,7 +5,7 @@
 * Over 250,000 downloads (excluding svn/git)
 * Large plugin community (over 144)
 
-!SLIDE
+!SLIDE smbullets
 # Open Source Users
 
 * Ruby programming language
@@ -13,12 +13,11 @@
 * Typo3 CMS
 * phpBB
 
-!SLIDE
 # Commercial Users
 
 * Treasury Board of Canada
 * Leysin American School
-* Puppet Labs (creators of Puppet)
+* Puppet Labs
 * Little Stream Software
 
 !SLIDE bullets incremental
