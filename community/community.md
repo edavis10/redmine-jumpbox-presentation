@@ -5,7 +5,7 @@
 * Over 250,000 downloads (excluding svn/git)
 * Strong plugin platform
 
-!SLIDE smbullets
+!SLIDE smbullets small
 # Open Source Users
 
 * Ruby programming language
@@ -28,6 +28,8 @@
 
 !SLIDE bullets small
 # Links
+
+---
 
 * [redmine.org](http://www.redmine.org)
 * [redmineblog.com](http://redmineblog.com)
