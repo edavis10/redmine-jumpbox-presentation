@@ -6,6 +6,22 @@
 * Large plugin community (over 144)
 
 !SLIDE
+# Open Source Users
+
+* Ruby programming language
+* Lighttpd web server
+* Typo3 CMS
+* phpBB
+
+!SLIDE
+# Commercial Users
+
+* Treasury Board of Canada
+* Leysin American School
+* Puppet Labs (creators of Puppet)
+* Little Stream Software
+
+!SLIDE bullets incremental
 # Get involved
 
 * 1.0 this July

@@ -1,5 +1,5 @@
 !SLIDE bullets incremental
-# Bug Tracker
+# Issue Tracking
 
 * Standard and custom fields
 * Workflows
@@ -16,5 +16,5 @@
 # Repository browser
 
 * File navigation
-* Revision
+* Revision list
 * Advanced integration
