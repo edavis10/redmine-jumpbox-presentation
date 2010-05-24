@@ -24,7 +24,7 @@
 # Get involved
 
 * 1.0 this July
-* Actively looking for non developers to contribute
+* Actively seeking more contributors
 * [redmine.org](http://www.redmine.org)
 * [redmineblog.com](http://redmineblog.com)
 
