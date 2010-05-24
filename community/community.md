@@ -3,7 +3,7 @@
 
 * Worldwide user base (41 languages)
 * Over 250,000 downloads (excluding svn/git)
-* Large plugin community
+* Strong plugin platform
 
 !SLIDE smbullets
 # Open Source Users

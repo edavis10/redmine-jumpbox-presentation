@@ -10,11 +10,11 @@
 * Billing and revenue tracking
 
 !SLIDE smbullets incremental
-# Core Project Management System
+# Core System
 
 ---
 
-* Multiple Project
+* Manage Multiple Projects
 * Issue Tracking
 * Document Management
 * Wiki
@@ -23,7 +23,7 @@
 * Time Tracking
 
 !SLIDE smbullets incremental
-# Plugin modules
+# Plugin extensions
 
 ---
 
@@ -34,4 +34,4 @@
 * Code Review
 * Kanban and Scrum Dashboards
 * Continuous Integration Dashboards
-* And much more, over 144 plugins...
+* And much more, *over 144 plugins*...
