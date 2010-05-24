@@ -14,13 +14,13 @@
 
 ---
 
-* Manage Multiple Projects
-* Issue Tracking
+* <a href="http://redmine.acheron/admin/projects" target="_blank">Manage Multiple Projects</a>
+* <a href="http://redmine.acheron/issues" target="_blank">Issue Tracking</a>
 * Document Management
 * Wiki
 * Forums
 * Source Code Browser
-* Time Tracking
+* <a href="http://redmine.acheron/time_entries" target="_blank">Time Tracking</a>
 
 !SLIDE smbullets incremental
 # Plugin extensions
