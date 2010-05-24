@@ -1,0 +1,19 @@
+/*
+* Black background with light text.
+*/
+
+body {
+   background: black;
+   color: white;
+}
+#preso, .slide {
+   background: black;
+}
+
+.slide {
+   border: none;
+}
+
+#footer {
+   display: none;
+}
