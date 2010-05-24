@@ -1,19 +1,11 @@
-!SLIDE
-# What problem does it solve?
+!SLIDE smbullets incremental
+# What is it used for?
 
 ## Project communication
 
-!SLIDE bullets incremental
-# Common Uses
-
-* Software bug tracker
+* Software bug tracking
 * IT Helpdesk
-* Department Todo System ?
-
-!SLIDE bullets incremental
-# Uncommon Uses
-
 * Construction management
-* Sales tracker (CRM system)
+* Sales tracking (CRM)
 * Knowledge base
 
