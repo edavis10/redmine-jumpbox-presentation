@@ -1,5 +1,6 @@
-!SLIDE
-# Redmine
+!SLIDE full-page subsection
+
+# ![Redmine](../images/Redmine-Logo-large.png)
 
 !SLIDE bullets incremental
 # What Is Redmine?
