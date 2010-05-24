@@ -24,7 +24,12 @@
 # Get involved
 
 * 1.0 this July
-* Actively seeking more contributors
+* Actively seeking contributors
+
+!SLIDE bullets small
+# Links
+
 * [redmine.org](http://www.redmine.org)
 * [redmineblog.com](http://redmineblog.com)
-
+* [demo.redmine.org](http://demo.redmine.org)
+* [redmine-jumpbox-presentation.heroku.com](http://redmine-jumpbox-presentation.heroku.com)
