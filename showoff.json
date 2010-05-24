@@ -2,8 +2,8 @@
  "name": "Redmine for JumpBox Study Hall",
  "sections": [
    {"section":"intro"}
-   ,{"section":"features"}
    ,{"section":"solution"}
+   ,{"section":"features"}
    ,{"section":"community"}
    ,{"section":"close"}
  ]
