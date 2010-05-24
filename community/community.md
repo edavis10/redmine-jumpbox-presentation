@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE bullets incremental
 # Community
 
 * Worldwide user base (41 languages)
