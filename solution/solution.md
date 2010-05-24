@@ -7,15 +7,31 @@
 * IT Helpdesk
 * Sales tracking (CRM)
 * Knowledge base
-* Construction management
+* Billing and revenue tracking
 
-!SLIDE bullets incremental
-# Project Management System
+!SLIDE smbullets incremental
+# Core Project Management System
 
 ---
 
-* Bug Tracker
+* Multiple Project
+* Issue Tracking
+* Document Management
 * Wiki
 * Forums
 * Source Code Browser
-* and more...
+* Time Tracking
+
+!SLIDE smbullets incremental
+# Plugin modules
+
+---
+
+* Budgeting
+* Scheduling
+* Accounts Receivable
+* Accounts Payable
+* Code Review
+* Kanban and Scrum Dashboards
+* Continuous Integration Dashboards
+* And much more, over 144 plugins...
