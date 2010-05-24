@@ -14,7 +14,8 @@
 !SLIDE bullets
 # Who Am I?
 
-* Ruby on Rails developer
-* Redmine core contributor
-* Open source plugin creator (71 open source plugins and growing)
-* Redmine freelancer
+<img src="../images/edavis10.png" title="Eric Davis" class="float-left" />
+
+* Redmine core developer
+* Redmine plugin creator
+* [@edavis10](http://twitter.com/edavis10)

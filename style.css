@@ -22,3 +22,12 @@ body {
 #footer {
    display: none;
 }
+
+.float-left {
+   float: left;
+}
+
+a, a:visited {
+   color: white;
+   font-weight: bold;
+}
