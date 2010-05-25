@@ -1,0 +1,87 @@
+* Title
+
+Hi, I'm Eric Davis and I'm going to talk about the Redmine project management system.
+
+* Who Am I
+
+I'm one of the Redmine core and plugin developers.  As the owner of Little Stream Software I'm lucky to be able to work on Redmine every day for my clients.
+
+* What is Redmine used for?
+
+Redmine is a general project management system so it can be adopted to many different environments.
+
+Some of the more common ones are:
+
+- Software bug tracking
+- An IT Helpdesk
+- Sales tracking like leads, customers, and proposals
+- Company knowledge base, using Redmine's wiki system
+- Tracking billing and revenue, using Redmine's time tracking system
+
+* Core system
+
+The Redmine system contains several core modules.  Each of these modules can be enabled and disabled per project.
+
+- A single Redmine install can host multiple projects, with and ability to share data between them.
+-- Live demo
+-- Multiple projects in this system.
+-- Parent, sub, and sub sub projects.
+
+- The issue tracking module lets you track as much or as little information about issues that need to get done.
+-- Issue list for the Reverse engineered fresh think project
+-- Columns
+-- Sorting
+-- Filters
+-- You can drill down into indivual issues to see their attributes and updates
+-- In the next version there will be support for subtasks
+
+- Each project also comes with it's own Wiki system.  It's not yet as powerful as stand alone wikis but it has a powerful macro system that makes it easy to extend.
+-- Common text elements like headers, lists, some syntax highlighted code, and a macro.
+-- Edit the page we can see that this macro gets expanded to a bunch of additional content when it's preview.
+
+- Redmine also has Source Code browser that support Subversion, Darcs, Mercurial, CVS, Bazaar, and Git.
+-- Each project can use a difference scm
+-- You can see there is a file browser on top
+-- A revision history on the bottom, of who did what.
+-- Viewing a revision and it's diff
+
+- Projects and Issues also allow users to track the time they spend on something.  I use this every day to track time I spend on different client projects and then to invoice them later.
+-- List of time logged
+-- Basic date range filtering
+-- Some plugins also include some more complex reports
+
+- Sever other modules including documents, files, news, and forums
+
+The best thing about Redmine's modules are they are can link to each other.  So if you commit some new code to the repository, you can reference an issue with it.
+
+* Plugins
+
+Redmine has a very rich plugin system.  Plugins are able to modify any part of the Redmine system and extend it with new modules.
+
+- There are plugins for Budgeting
+- And scheduling what projects people should work on.
+- Tracking invoices and accounts receivable
+- Performing a code review.
+- Dashboards for several agile systems like Scrum and Kanban.
+- And integrating with other services like Continous Integration servers.
+- There are over 144 Open Source plugins released for Redmine, and I personally have 20 more that I haven't even released yet.
+
+* Community
+
+- Now for a little bit about the Redmine community.
+- There are users from all over the world and the interface has been translated to 41 languages already. 
+- As of last week, there have been over a quarter of a million downloads, and that's excluding all of the users getting the code from Subversion and git.
+
+* Community members
+
+There is a large number of users running Redmine in production, both open source projects and business.  They range from someones side projects all the way up to branches of national governments and back down to one person software companies like mine.
+
+* Getting involved
+
+- After 4 years of development we are on track for the 1.0 release this July.
+- We're currently looking for contributors, developers, designers, and anyone that can give us feedback.
+- I'm active on Twitter and on Redmine's IRC channel if you have any questions or suggestions.
+
+* Links
+
+Here are some links to the official websites for Redmine, including a link to view this presentation.
