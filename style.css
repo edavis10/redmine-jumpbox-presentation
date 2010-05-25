@@ -8,6 +8,7 @@ body {
 }
 #preso, .slide {
    background: black;
+   height: 700px;
 }
 
 .slide {
@@ -25,6 +26,7 @@ body {
 
 #footer {
    display: none;
+   height: 0px;
 }
 
 .float-left {
