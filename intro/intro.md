@@ -7,7 +7,5 @@
 
 <img src="../images/edavis10.png" title="Eric Davis" class="float-left" />
 
-* Redmine core developer
-* Redmine plugin creator
-* [@edavis10](http://twitter.com/edavis10)
-
+* Redmine core and plugin developer
+* Owner of Little Stream Software

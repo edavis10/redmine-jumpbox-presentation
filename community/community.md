@@ -3,7 +3,6 @@
 
 * Worldwide user base (41 languages)
 * Over 250,000 downloads (excluding svn/git)
-* Strong plugin platform
 
 !SLIDE smbullets small
 # Open Source Users
@@ -25,13 +24,15 @@
 
 * 1.0 this July
 * Actively seeking contributors
+* [@edavis10](http://twitter.com/edavis10)
+* Freenode IRC at #redmine
 
 !SLIDE bullets small
 # Links
 
 ---
 
-* [redmine.org](http://www.redmine.org)
-* [redmineblog.com](http://redmineblog.com)
-* [demo.redmine.org](http://demo.redmine.org)
-* [redmine-jumpbox-presentation.heroku.com](http://redmine-jumpbox-presentation.heroku.com)
+* Main Site: [redmine.org](http://www.redmine.org)
+* Blog: [redmineblog.com](http://redmineblog.com)
+* Live Demo: [demo.redmine.org](http://demo.redmine.org)
+* This Presentation: [redmine-jumpbox-presentation.heroku.com](http://redmine-jumpbox-presentation.heroku.com)
