@@ -14,11 +14,11 @@
 
 ---
 
-* <a href="http://production.redmine.acheron/admin/projects" target="_blank">Manage Multiple Projects</a>
-* <a href="http://production.redmine.acheron/projects/wildermanbeer1/issues" target="_blank">Issue Tracking</a>
-* <a href="http://production.redmine.acheron/projects/wildermanbeer1/wiki" target="_blank">Wiki</a>
-* <a href="http://production.redmine.acheron/projects/wildermanbeer1/repository" target="_blank">Source Code Browser</a>
-* <a href="http://production.redmine.acheron/time_entries" target="_blank">Time Tracking</a>
+* Manage Multiple Projects
+* Issue Tracking
+* Wiki
+* Source Code Browser
+* Time Tracking
 * And others: Documents, Files, News, and Forums
 
 !SLIDE smbullets incremental
